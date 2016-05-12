@@ -27,3 +27,10 @@
   width: 150px;
   margin-right: 5px;
 }
+
+.tower {
+  float: right;
+  height: auto;
+  width: 150px;
+  margin: 0 5px 5px;
+}
