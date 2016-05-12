@@ -63,3 +63,14 @@
   height: auto;
   width: 115px;
 }
+
+img.wiki {
+  display: block;
+  margin: 0 auto 14px auto;
+}
+
+.linklist2 {
+  list-style: none;
+  margin: 4px 0 2px;
+  border-bottom: 1px solid lightgray;
+}
