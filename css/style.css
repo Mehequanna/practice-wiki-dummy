@@ -9,3 +9,21 @@
 .welcomebox {
   background-color: #E6E6DA;
 }
+
+.todayheader {
+  background-color: #A0C493;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+.today {
+  background-color: #DCE8D8;
+  margin-top: 4px;
+}
+
+.James {
+  float: left;
+  height: auto;
+  width: 150px;
+  margin-right: 5px;
+}
