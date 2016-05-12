@@ -19,6 +19,7 @@
 .today {
   background-color: #DCE8D8;
   margin-top: 4px;
+  border: 1px solid black;
 }
 
 .James {
@@ -33,4 +34,32 @@
   height: auto;
   width: 150px;
   margin: 0 5px 5px;
+}
+
+.rightheader {
+  background-color: #A9C7D1;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+.rightbackground {
+  background-color: #D8E4E8;
+  margin-top: 4px;
+  margin-left: 4px;
+  border: 1px solid black;
+  padding-bottom: 240px;
+}
+
+.Werner {
+  margin-left: 4px;
+  float: right;
+  height: auto;
+  width: 75px;
+}
+
+.Duke {
+  margin-left: 4px;
+  float: right;
+  height: auto;
+  width: 115px;
 }
