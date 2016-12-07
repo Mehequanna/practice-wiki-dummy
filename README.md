@@ -1,6 +1,8 @@
 # Project Name
 Wiki Dummy Page
 
+![screenshot of project](wikidummy.png)
+
 ## Description
 This is a pair programming project created to practice bootstrap. We tried our best to recreate the wiki home page.
 
